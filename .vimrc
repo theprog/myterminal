@@ -1,0 +1,1 @@
+source ~/myterminal/vimconfig.vim
